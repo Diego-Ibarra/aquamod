@@ -6,7 +6,6 @@ with particular emphasis on aquaculture-environment interactions.
 
 Please read documentation at: http://aquamod.readthedocs.io/
 
-...and tutorials at: https://github.com/Diego-Ibarra/aquamod/tutorials
+...and tutorials at: https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
-.. figure::  ./static/ecosys1.png
-
+![alt tag](https://github.com/Diego-Ibarra/aquamod/blob/master/static/ecosys1.png)

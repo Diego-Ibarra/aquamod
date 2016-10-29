@@ -29,7 +29,7 @@ https://github.com/Diego-Ibarra/aquamod
 Tutorials
 ^^^^^^^^^
 
-https://github.com/Diego-Ibarra/aquamod/tutorials
+https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
 
 .. toctree::
