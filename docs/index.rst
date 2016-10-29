@@ -8,7 +8,7 @@ Welcome to AquaMod!
 
 .. Warning:: Docs still under construction!
 
-AquaMod is a collection of tools to do ecosystem modelling in coastal environments, 
+**AquaMod** is a collection of tools to do ecosystem modelling in coastal environments, 
 with particular emphasis on aquaculture-environment interactions.
 
 
@@ -29,7 +29,7 @@ https://github.com/Diego-Ibarra/aquamod
 Tutorials
 ^^^^^^^^^
 
-https://github.com/Diego-Ibarra/aquamod
+https://github.com/Diego-Ibarra/aquamod/tutorials
 
 
 .. toctree::

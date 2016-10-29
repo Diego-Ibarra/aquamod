@@ -1,9 +1,12 @@
-# aquamod
+# AquaMod
 Ecosystem Model for Aquaculture (AquaMod)
 
-These are a collection of tools to model costal ecosystems in the context of aquaculture applications.
+**AquaMod** is a collection of tools to do ecosystem modelling in coastal environments, 
+with particular emphasis on aquaculture-environment interactions.
 
 Please read documentation at: http://aquamod.readthedocs.io/
 
+...and tutorials at: https://github.com/Diego-Ibarra/aquamod/tutorials
 
+.. figure::  ./static/ecosys1.png
 
