@@ -6,6 +6,8 @@
 Welcome to AquaMod's documentation!
 ===================================
 
+Test
+
 Contents:
 
 .. toctree::
