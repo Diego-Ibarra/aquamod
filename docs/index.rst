@@ -3,8 +3,41 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AquaMod's documentation!
-===================================
+Welcome to AquaMod!
+===================
+
+.. Warning:: Docs still under construction!
+
+AquaMod is a collection of tools to do ecosystem modelling in coastal environments, 
+with particular emphasis on aquaculture-environment interactions.
+
+
+Installation
+^^^^^^^^^^^^
+
+To install `AquaMod` type the following in a terminal::
+
+	pip install git+https://github.com/Diego-Ibarra/aquamod
+
+
+Repository
+^^^^^^^^^^^
+
+https://github.com/Diego-Ibarra/aquamod
+
+
+Tutorials
+^^^^^^^^^
+
+https://github.com/Diego-Ibarra/aquamod
+
+
+.. toctree::
+   :maxdepth: 2
+
+   Installation/overview
+   Installation/installation
+
 
 Contents:
 
