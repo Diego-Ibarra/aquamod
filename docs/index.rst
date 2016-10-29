@@ -17,7 +17,7 @@ Installation
 
 To install `AquaMod` type the following in a terminal::
 
-	pip install git+https://github.com/Diego-Ibarra/aquamod
+	pip install git+https://github.com/Diego-Ibarra/aquamod.git
 
 
 Repository
