@@ -44,6 +44,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: Macrofauna Sub-models
 
    bivalves/bivalves
    fish/fish
