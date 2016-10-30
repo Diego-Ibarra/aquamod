@@ -31,6 +31,14 @@ Tutorials
 
 https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
+---------------------------
+
+.. automodule:: aquamod
+   :members:
+   :undoc-members:
+
+
+---------------------------
 
 .. toctree::
    :maxdepth: 2
