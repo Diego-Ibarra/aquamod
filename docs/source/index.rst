@@ -6,7 +6,7 @@
 Welcome to AquaMod!
 ===================
 
-.. Warning:: Docs still under construction!
+.. Warning:: Docs are still under construction!
 
 **AquaMod** is a collection of tools to do ecosystem modelling in coastal environments, 
 with particular emphasis on aquaculture-environment interactions.
@@ -46,6 +46,11 @@ Contents:
    :maxdepth: 2
 
    bivalves/bivalves
+   fish/fish
+   shrimp/shrimp
+   macroalgae/macroalgae
+   plankton/plankton
+   sediments/sediments
 
 
 Contents:

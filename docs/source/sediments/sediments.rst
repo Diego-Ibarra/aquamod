@@ -1,4 +1,4 @@
-Bivalves
+Sediments
 ************
 
 .. Warning:: Docs are still under construction!

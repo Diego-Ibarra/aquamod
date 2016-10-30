@@ -1,4 +1,4 @@
-Bivalves
+Fish
 ************
 
 .. Warning:: Docs are still under construction!

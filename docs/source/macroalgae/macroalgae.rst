@@ -1,4 +1,4 @@
-Bivalves
+Macroalgae
 ************
 
 .. Warning:: Docs are still under construction!

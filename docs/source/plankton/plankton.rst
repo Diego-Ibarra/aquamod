@@ -1,4 +1,4 @@
-Bivalves
+Plankton
 ************
 
 .. Warning:: Docs are still under construction!
