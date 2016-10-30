@@ -33,7 +33,7 @@ https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
 ---------------------------
 
-.. automodule:: aquamod
+.. automodule:: model_Embayment_PlanktonMussels
    :members:
    :undoc-members:
 
