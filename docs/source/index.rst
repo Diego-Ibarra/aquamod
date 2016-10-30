@@ -40,11 +40,12 @@ https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
 ---------------------------
 
+Contents:
+
 .. toctree::
    :maxdepth: 2
 
-   Installation/overview
-   Installation/installation
+   bivalves/bivalves
 
 
 Contents:
