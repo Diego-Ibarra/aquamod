@@ -4,7 +4,7 @@
 **AquaMod** is a collection of tools to model coastal ecosystems, 
 with particular emphasis on aquaculture-environment interactions.
 
-.. Warning:: Projects is still under construction!
+!!! Warning: Project is still under construction !!!
 
 -----------------------------
 
