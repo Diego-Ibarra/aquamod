@@ -33,32 +33,19 @@ https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
 ---------------------------
 
-.. automodule:: model_Embayment_PlanktonMussels
-   :members:
-   :undoc-members:
-
-
----------------------------
-
-Contents:
-
 .. toctree::
    :maxdepth: 2
-   :caption: Macrofauna Sub-models
+   :caption: Sub-models
 
    bivalves/bivalves
    fish/fish
    shrimp/shrimp
    macroalgae/macroalgae
-   plankton/plankton
+   planktonic/planktonic
    sediments/sediments
 
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
+---------------------------
 
 
 Indices and tables
