@@ -22,5 +22,5 @@ Tutorials at: https://github.com/Diego-Ibarra/aquamod/tree/master/tutorials
 
 Example:
 
-.. image:: https://github.com/Diego-Ibarra/aquamod/blob/master/static/ecosys1.png
+.. image:: https://github.com/Diego-Ibarra/aquamod/blob/master/data/ecosys1.png
     :width: 200px
