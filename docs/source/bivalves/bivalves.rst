@@ -5,6 +5,6 @@ Bivalves
 
 Instructions go here...
 
-.. automodule:: model_Mussel_IbarraEtal2014
+.. automodule:: bivalves
    :members:
    :undoc-members:
